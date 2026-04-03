@@ -67,7 +67,7 @@ You need a proper PS2 BIOS file to proceed. Make sure you’re using a clean and
 
 If you’re looking for a more detailed walkthrough, including BIOS setup and troubleshooting tips, you can check this guide:
 
-👉 [https://aethersx2bios.net/]((https://aethersx2bios.net/))
+👉 [https://aethersx2bios.net/](https://aethersx2bios.net/)
 
 ---
 
